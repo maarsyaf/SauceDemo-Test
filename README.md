@@ -40,7 +40,7 @@ SauceDemo-Test/
 ### 1️⃣ **Clone Repository**
 
 ```sh
-git clone https://github.com/username/SauceDemo-Test.git
+git clone https://github.com/maarsyaf/SauceDemo-Test.git
 cd SauceDemo-Test
 ```
 
